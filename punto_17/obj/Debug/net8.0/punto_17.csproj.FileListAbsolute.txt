@@ -1,0 +1,14 @@
+/home/frank/Escritorio/3151004/punto_17/obj/Debug/net8.0/punto_17.GeneratedMSBuildEditorConfig.editorconfig
+/home/frank/Escritorio/3151004/punto_17/obj/Debug/net8.0/punto_17.AssemblyInfoInputs.cache
+/home/frank/Escritorio/3151004/punto_17/obj/Debug/net8.0/punto_17.AssemblyInfo.cs
+/home/frank/Escritorio/3151004/punto_17/obj/Debug/net8.0/punto_17.csproj.CoreCompileInputs.cache
+/home/frank/Escritorio/3151004/punto_17/bin/Debug/net8.0/punto_17
+/home/frank/Escritorio/3151004/punto_17/bin/Debug/net8.0/punto_17.deps.json
+/home/frank/Escritorio/3151004/punto_17/bin/Debug/net8.0/punto_17.runtimeconfig.json
+/home/frank/Escritorio/3151004/punto_17/bin/Debug/net8.0/punto_17.dll
+/home/frank/Escritorio/3151004/punto_17/bin/Debug/net8.0/punto_17.pdb
+/home/frank/Escritorio/3151004/punto_17/obj/Debug/net8.0/punto_17.dll
+/home/frank/Escritorio/3151004/punto_17/obj/Debug/net8.0/refint/punto_17.dll
+/home/frank/Escritorio/3151004/punto_17/obj/Debug/net8.0/punto_17.pdb
+/home/frank/Escritorio/3151004/punto_17/obj/Debug/net8.0/punto_17.genruntimeconfig.cache
+/home/frank/Escritorio/3151004/punto_17/obj/Debug/net8.0/ref/punto_17.dll

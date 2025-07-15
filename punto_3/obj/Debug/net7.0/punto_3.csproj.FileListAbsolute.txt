@@ -1,0 +1,15 @@
+C:\Users\Aprendiz\Desktop\3151004\punto_3\bin\Debug\net7.0\punto_3.exe
+C:\Users\Aprendiz\Desktop\3151004\punto_3\bin\Debug\net7.0\punto_3.deps.json
+C:\Users\Aprendiz\Desktop\3151004\punto_3\bin\Debug\net7.0\punto_3.runtimeconfig.json
+C:\Users\Aprendiz\Desktop\3151004\punto_3\bin\Debug\net7.0\punto_3.dll
+C:\Users\Aprendiz\Desktop\3151004\punto_3\bin\Debug\net7.0\punto_3.pdb
+C:\Users\Aprendiz\Desktop\3151004\punto_3\obj\Debug\net7.0\punto_3.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Desktop\3151004\punto_3\obj\Debug\net7.0\punto_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\3151004\punto_3\obj\Debug\net7.0\punto_3.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\3151004\punto_3\obj\Debug\net7.0\punto_3.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\3151004\punto_3\obj\Debug\net7.0\punto_3.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\3151004\punto_3\obj\Debug\net7.0\punto_3.dll
+C:\Users\Aprendiz\Desktop\3151004\punto_3\obj\Debug\net7.0\refint\punto_3.dll
+C:\Users\Aprendiz\Desktop\3151004\punto_3\obj\Debug\net7.0\punto_3.pdb
+C:\Users\Aprendiz\Desktop\3151004\punto_3\obj\Debug\net7.0\punto_3.genruntimeconfig.cache
+C:\Users\Aprendiz\Desktop\3151004\punto_3\obj\Debug\net7.0\ref\punto_3.dll

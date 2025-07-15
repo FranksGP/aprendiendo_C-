@@ -1,0 +1,14 @@
+/home/frank/Escritorio/3151004/punto_6/bin/Debug/net8.0/punto_6
+/home/frank/Escritorio/3151004/punto_6/bin/Debug/net8.0/punto_6.deps.json
+/home/frank/Escritorio/3151004/punto_6/bin/Debug/net8.0/punto_6.runtimeconfig.json
+/home/frank/Escritorio/3151004/punto_6/bin/Debug/net8.0/punto_6.dll
+/home/frank/Escritorio/3151004/punto_6/bin/Debug/net8.0/punto_6.pdb
+/home/frank/Escritorio/3151004/punto_6/obj/Debug/net8.0/punto_6.GeneratedMSBuildEditorConfig.editorconfig
+/home/frank/Escritorio/3151004/punto_6/obj/Debug/net8.0/punto_6.AssemblyInfoInputs.cache
+/home/frank/Escritorio/3151004/punto_6/obj/Debug/net8.0/punto_6.AssemblyInfo.cs
+/home/frank/Escritorio/3151004/punto_6/obj/Debug/net8.0/punto_6.csproj.CoreCompileInputs.cache
+/home/frank/Escritorio/3151004/punto_6/obj/Debug/net8.0/punto_6.dll
+/home/frank/Escritorio/3151004/punto_6/obj/Debug/net8.0/refint/punto_6.dll
+/home/frank/Escritorio/3151004/punto_6/obj/Debug/net8.0/punto_6.pdb
+/home/frank/Escritorio/3151004/punto_6/obj/Debug/net8.0/punto_6.genruntimeconfig.cache
+/home/frank/Escritorio/3151004/punto_6/obj/Debug/net8.0/ref/punto_6.dll

@@ -1,0 +1,15 @@
+C:\Users\Aprendiz\Desktop\3151004\suma\bin\Debug\net7.0\suma.exe
+C:\Users\Aprendiz\Desktop\3151004\suma\bin\Debug\net7.0\suma.deps.json
+C:\Users\Aprendiz\Desktop\3151004\suma\bin\Debug\net7.0\suma.runtimeconfig.json
+C:\Users\Aprendiz\Desktop\3151004\suma\bin\Debug\net7.0\suma.dll
+C:\Users\Aprendiz\Desktop\3151004\suma\bin\Debug\net7.0\suma.pdb
+C:\Users\Aprendiz\Desktop\3151004\suma\obj\Debug\net7.0\suma.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Desktop\3151004\suma\obj\Debug\net7.0\suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\Desktop\3151004\suma\obj\Debug\net7.0\suma.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\Desktop\3151004\suma\obj\Debug\net7.0\suma.AssemblyInfo.cs
+C:\Users\Aprendiz\Desktop\3151004\suma\obj\Debug\net7.0\suma.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\3151004\suma\obj\Debug\net7.0\suma.dll
+C:\Users\Aprendiz\Desktop\3151004\suma\obj\Debug\net7.0\refint\suma.dll
+C:\Users\Aprendiz\Desktop\3151004\suma\obj\Debug\net7.0\suma.pdb
+C:\Users\Aprendiz\Desktop\3151004\suma\obj\Debug\net7.0\suma.genruntimeconfig.cache
+C:\Users\Aprendiz\Desktop\3151004\suma\obj\Debug\net7.0\ref\suma.dll

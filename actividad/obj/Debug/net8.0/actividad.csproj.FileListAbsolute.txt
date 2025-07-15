@@ -1,0 +1,14 @@
+/home/frank/Escritorio/3151004/actividad/bin/Debug/net8.0/actividad
+/home/frank/Escritorio/3151004/actividad/bin/Debug/net8.0/actividad.deps.json
+/home/frank/Escritorio/3151004/actividad/bin/Debug/net8.0/actividad.runtimeconfig.json
+/home/frank/Escritorio/3151004/actividad/bin/Debug/net8.0/actividad.dll
+/home/frank/Escritorio/3151004/actividad/bin/Debug/net8.0/actividad.pdb
+/home/frank/Escritorio/3151004/actividad/obj/Debug/net8.0/actividad.GeneratedMSBuildEditorConfig.editorconfig
+/home/frank/Escritorio/3151004/actividad/obj/Debug/net8.0/actividad.AssemblyInfoInputs.cache
+/home/frank/Escritorio/3151004/actividad/obj/Debug/net8.0/actividad.AssemblyInfo.cs
+/home/frank/Escritorio/3151004/actividad/obj/Debug/net8.0/actividad.csproj.CoreCompileInputs.cache
+/home/frank/Escritorio/3151004/actividad/obj/Debug/net8.0/actividad.dll
+/home/frank/Escritorio/3151004/actividad/obj/Debug/net8.0/refint/actividad.dll
+/home/frank/Escritorio/3151004/actividad/obj/Debug/net8.0/actividad.pdb
+/home/frank/Escritorio/3151004/actividad/obj/Debug/net8.0/actividad.genruntimeconfig.cache
+/home/frank/Escritorio/3151004/actividad/obj/Debug/net8.0/ref/actividad.dll

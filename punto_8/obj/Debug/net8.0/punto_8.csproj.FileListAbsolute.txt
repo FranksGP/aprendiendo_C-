@@ -1,0 +1,14 @@
+/home/frank/Escritorio/3151004/punto_8/bin/Debug/net8.0/punto_8
+/home/frank/Escritorio/3151004/punto_8/bin/Debug/net8.0/punto_8.deps.json
+/home/frank/Escritorio/3151004/punto_8/bin/Debug/net8.0/punto_8.runtimeconfig.json
+/home/frank/Escritorio/3151004/punto_8/bin/Debug/net8.0/punto_8.dll
+/home/frank/Escritorio/3151004/punto_8/bin/Debug/net8.0/punto_8.pdb
+/home/frank/Escritorio/3151004/punto_8/obj/Debug/net8.0/punto_8.GeneratedMSBuildEditorConfig.editorconfig
+/home/frank/Escritorio/3151004/punto_8/obj/Debug/net8.0/punto_8.AssemblyInfoInputs.cache
+/home/frank/Escritorio/3151004/punto_8/obj/Debug/net8.0/punto_8.AssemblyInfo.cs
+/home/frank/Escritorio/3151004/punto_8/obj/Debug/net8.0/punto_8.csproj.CoreCompileInputs.cache
+/home/frank/Escritorio/3151004/punto_8/obj/Debug/net8.0/punto_8.dll
+/home/frank/Escritorio/3151004/punto_8/obj/Debug/net8.0/refint/punto_8.dll
+/home/frank/Escritorio/3151004/punto_8/obj/Debug/net8.0/punto_8.pdb
+/home/frank/Escritorio/3151004/punto_8/obj/Debug/net8.0/punto_8.genruntimeconfig.cache
+/home/frank/Escritorio/3151004/punto_8/obj/Debug/net8.0/ref/punto_8.dll
