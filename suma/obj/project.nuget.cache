@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fLWhIN4GpVkqqlUu/ldeQ0xqnd4P4jGzAIJ0fu3IAeiCpRBpRr9dRi47mYESk+qRVKZovc3HUto4Lo4uBP897A==",
+  "dgSpecHash": "uUCcPB+CBAk=",
   "success": true,
-  "projectFilePath": "/home/frank/Escritorio/3151004/suma/suma.csproj",
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\aprendiendo_C-\\suma\\suma.csproj",
   "expectedPackageFiles": [
-    "/home/frank/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
-    "/home/frank/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
-    "/home/frank/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }

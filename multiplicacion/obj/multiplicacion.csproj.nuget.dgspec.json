@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/frank/Escritorio/3151004/multiplicacion/multiplicacion.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\aprendiendo_C-\\multiplicacion\\multiplicacion.csproj": {}
   },
   "projects": {
-    "/home/frank/Escritorio/3151004/multiplicacion/multiplicacion.csproj": {
+    "C:\\Users\\ACER\\Desktop\\aprendiendo_C-\\multiplicacion\\multiplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/frank/Escritorio/3151004/multiplicacion/multiplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\aprendiendo_C-\\multiplicacion\\multiplicacion.csproj",
         "projectName": "multiplicacion",
-        "projectPath": "/home/frank/Escritorio/3151004/multiplicacion/multiplicacion.csproj",
-        "packagesPath": "/home/frank/.nuget/packages/",
-        "outputPath": "/home/frank/Escritorio/3151004/multiplicacion/obj/",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\aprendiendo_C-\\multiplicacion\\multiplicacion.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\aprendiendo_C-\\multiplicacion\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/frank/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,7 +39,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -54,11 +67,15 @@
               "version": "[7.0.20, 7.0.20]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[7.0.20, 7.0.20]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
               "version": "[7.0.20, 7.0.20]"
             }
           ],
@@ -67,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.2.24474.11\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -5,7 +5,7 @@ int lunes, martes, miercoles, jueves, viernes, sabado, domingo, tempTotal;
 int calor = 35, frio = 15; 
 float temperatura;
 Console.WriteLine("Bienvenido a la calculadora de terpelratura");
-Console.WriteLine("Ingrese ingresa la tempretura de los dias de la semana:");
+Console.WriteLine("Ingrese la tempretura de los dias de la semana:");
 Console.Write("Lunes: ");
 lunes = int.Parse(Console.ReadLine());
 Console.Write("Martes: ");
